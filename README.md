@@ -1,4 +1,4 @@
 # My first git
 
 
-Some description
+Some description of the system
